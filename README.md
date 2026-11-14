@@ -82,8 +82,6 @@ In addition to the four GBG scenarios above, I have worked on **15+ AWS hands-on
 - **[DEPI DevOps Project](https://github.com/Marwan226/DEPI-Project)** — E-commerce application project with DevOps work covering Docker, Kubernetes, Ansible, Terraform, Jenkins CI/CD, and Prometheus/Grafana planning and implementation artifacts.
 - **[Java CI/CD with Jenkins, Docker & Kubernetes](https://github.com/Marwan226/simple-java-app-dolfined)** — Maven-based Java application with Docker image building, Jenkins pipeline stages, Docker Hub publishing, and Kubernetes deployment manifests for Amazon EKS.
 - **[SpareCar Application](https://github.com/Marwan226/Spare-car)** — Full-stack spare-parts e-commerce application with a React/TypeScript frontend and Node.js/Express backend using MongoDB/Mongoose. The repository also contains infrastructure work folders for Ansible, Kubernetes, and Terraform.
-- **[AWS Amplify Static Website](https://github.com/Marwan226/amplify-static-site)** — Static website hosted using AWS Amplify and connected to a GitHub repository for automated deployment.
-- **[Jenkins & Docker CI/CD](https://github.com/Marwan226/ci-cd)** — A small web application packaged with Docker and built, published, and deployed through a Jenkins pipeline.
 
 ## Automation Project
 
